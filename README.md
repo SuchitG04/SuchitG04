@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- I'm currently tinkering with LLMs 🤖 (including fine-tuning, building apps, etc) and Linux 🐧
+- I'm learning how to create my own deep learning models ✨ from [fast.ai](https://course.fast.ai/Lessons/part2.html) and [Andrej's](https://github.com/karpathy) [playlist](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=Ml4zVhmdgKWrs7iq)
+- I aspire to work in research 📚 positions to deepen and broaden my understanding of deep learning and work on impacting problems
+- I can talk about Linux, deep learning and Attack on Titan 👾 all day
+- How to reach me 📫: suchitg04@gmail.com or 👇
+- Website/blog 🕸️: https://suchitg04.github.io/blog/about
 <!--
 **SuchitG04/SuchitG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
