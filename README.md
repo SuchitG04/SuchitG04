@@ -4,7 +4,7 @@
 - I aspire to work in research 📚 positions to deepen and broaden my understanding of deep learning and work on impacting problems
 - I can talk about Linux, deep learning and Attack on Titan 👾 all day
 - How to reach me 📫: suchitg04@gmail.com or 👇
-- Website/blog 🕸️: https://suchitg04.github.io/blog/about
+- Website/blog 🕸️: https://suchitg04.github.io/
 <!--
 **SuchitG04/SuchitG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
